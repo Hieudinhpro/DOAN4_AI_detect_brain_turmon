@@ -1,4 +1,4 @@
-# Project4 AI classification brain turmon
+# Project4 AI detect brain turmon
 # name : Tran Dinh Hieu
 # classID : 20AD
 # ID : 20IT212
